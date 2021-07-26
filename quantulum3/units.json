@@ -1,10 +1,4 @@
 {
-  "unk": {
-    "entity": "dimensionless",
-    "URI": "Dimensionless_quantity",
-    "dimensions": [],
-    "symbols": []
-  },
   "dimensionless": {
     "surfaces": [
       "dimensionless"
